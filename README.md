@@ -10,5 +10,6 @@ This script automates the setup process for a Ruby on Rails development environm
 ```bash
 chmod +x setup_rails_dev_with_nvm.sh
 
-```bash
 ./setup_rails_dev_with_nvm.sh
+
+
